@@ -165,7 +165,7 @@ a:hover {
     }
 
     .divimgIntermedia {
-        background-image: url(/resources/img/imgintermediadesktop.jpg);
+        background-image: url(resources/img/imgintermediadesktop.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -653,7 +653,7 @@ a:hover {
     }
 
     .divimgIntermedia {
-        background-image: url(/resources/img/imgintermediadesktop.jpg);
+        background-image: url(resources/img/imgintermediadesktop.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 30vh;
@@ -995,7 +995,7 @@ a:hover {
         background-repeat: no-repeat;
         background-size: cover;
         text-align: center;
-        background-image: url(/resources/img/img-portada.jpg);
+        background-image: url(resources/img/img-portada.jpg);
         height: 80vh;
 
     }
@@ -1252,7 +1252,7 @@ a:hover {
     }
 
     .divimgIntermedia {
-        background-image: url(/resources/img/imgintermediadesktop.jpg);
+        background-image: url(resources/img/imgintermediadesktop.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 50vh;
@@ -1591,7 +1591,7 @@ a:hover {
         background-repeat: no-repeat;
         background-size: cover;
         text-align: center;
-        background-image: url(/resources/img/img-portada.jpg);
+        background-image: url(resources/img/img-portada.jpg);
         height: 90vh;
 
     }
